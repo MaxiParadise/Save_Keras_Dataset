@@ -14,7 +14,7 @@ Tensorflow 2.1 にて動作確認
 
 
 # 使い方
-`python save_keras_dataset.py`
+`python save_tf_keras_dataset.py`
 
 0: end  
 1: Save CIFAR10 images  
