@@ -11,6 +11,8 @@ Tensorflow 2.1 にて動作確認
 * Reuter Topics -> テキスト保存
 * Boston Housing data -> CSV保存
 
+↓ 詳しい説明は、こちらで説明しています。  
+https://maxigundan.com/deeplearning/?p=99
 
 
 # 使い方
