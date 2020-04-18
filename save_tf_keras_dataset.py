@@ -301,7 +301,7 @@ def ask_command():
     print('3: Save MNIST images')
     print('4: Save Fasion-MNIST images')
     print('5: Save IMDB Review Texts')
-    print('6: Save Reuter Topics Texts')
+    print('6: Save Reuters Topics Texts')
     print('7: Save Boston Housing data CSV')
     command = input('select menu -> ')
 
